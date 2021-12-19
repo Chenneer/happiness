@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save_note.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\drawable\\save_note.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\menu_detail.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\menu\\detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_record.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\layout_notepad_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\layout\\notepad_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\Code\\mynote\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]
